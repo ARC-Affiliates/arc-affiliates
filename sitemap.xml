@@ -26,6 +26,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://localblog.arcaffiliates.com/glossary/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://localblog.arcaffiliates.com/blog/digital-marketing-agency-wildwood-fl/</loc>
     <lastmod>digital-marketing-agency</lastmod>
     <changefreq>monthly</changefreq>
