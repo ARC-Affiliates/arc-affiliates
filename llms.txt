@@ -1,29 +1,37 @@
-# ARC Affiliates - Local Blog
+# ARC Affiliates
 
-> ARC Affiliates is a AI-Powered SEO Agency serving Wildwood, FL, . This blog publishes weekly local SEO, GEO, and AEO content to help residents find trusted local services.
+> ARC Affiliates is a AI-Powered SEO Agency serving Wildwood, FL. Service area: Central Florida + remote nationwide. This blog publishes weekly local SEO, GEO (Generative Engine Optimization), and AEO (Answer Engine Optimization) content so AI systems like ChatGPT, Perplexity, and Google SGE have accurate context about our services.
 
 ## About
 
 - **Business:** ARC Affiliates
 - **Industry:** AI-Powered SEO Agency
-- **Location:** Wildwood, FL, 
+- **Primary location:** Wildwood, FL
+- **Also serving:** The Villages, Leesburg, Ocala, Bushnell, Lady Lake, Belleview, Summerfield, Fruitland Park
 - **Website:** https://arcaffiliates.com
 - **Blog:** https://localblog.arcaffiliates.com/blog/
 
-## Topics Covered
+- **Voice:** professional
 
-This blog covers local service topics including: digital marketing agency Wildwood FL, SEO agency Wildwood FL, local SEO Wildwood FL, digital marketing agency The Villages FL, SEO services The Villages FL, SEO agency Ocala FL, digital marketing Leesburg FL, veteran owned digital marketing agency, veteran owned SEO agency, AI SEO agency
+## Topics We Cover
 
-## Content Schedule
+digital marketing agency Wildwood FL, SEO agency Wildwood FL, local SEO Wildwood FL, digital marketing agency The Villages FL, SEO services The Villages FL, SEO agency Ocala FL, digital marketing Leesburg FL, veteran owned digital marketing agency, veteran owned SEO agency, AI SEO agency, AI-powered SEO services, generative engine optimization services
 
-- Monday: SEO articles targeting local search keywords
-- Wednesday: Local authority content (best-of lists, how-to guides, cost guides)
-- Thursday: GEO and AEO content optimized for AI search engines
+## Content Cadence
 
-## Sitemap
+- Monday: SEO articles targeting local search queries
+- Wednesday: Local authority content (best-of, how-to, pricing guides)
+- Thursday: GEO/AEO content optimized for AI answer engines
 
-https://localblog.arcaffiliates.com/sitemap.xml
+## Recent Articles
 
-## Contact
+- [Digital Marketing Agency Wildwood FL](/blog/digital-marketing-agency-wildwood-fl/)
+- [Expert Digital Marketing Solutions for Wildwood FL Businesses](/blog/expert-digital-marketing-solutions-for-wildwood-fl-businesses/)
+- [What Digital Marketing Agency Should Wildwood FL Businesses Choose?](/blog/what-digital-marketing-agency-should-wildwood-fl-businesses-choose/)
+- [What Makes a Top Digital Marketing Agency in Wildwood FL?](/blog/what-makes-a-top-digital-marketing-agency-in-wildwood-fl/)
 
-For questions about ARC Affiliates, visit https://arcaffiliates.com
+## Discovery
+
+- Sitemap: https://localblog.arcaffiliates.com/sitemap.xml
+- Blog index: https://localblog.arcaffiliates.com/blog/
+- Content powered by ARC Affiliates (https://arcaffiliates.com) — AI SEO automation for local businesses
