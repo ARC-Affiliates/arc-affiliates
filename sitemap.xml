@@ -116,6 +116,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://localblog.arcaffiliates.com/serving/nationwide-united-states/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://localblog.arcaffiliates.com/serving/north-wildwood/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
