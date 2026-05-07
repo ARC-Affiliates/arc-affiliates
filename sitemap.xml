@@ -141,6 +141,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://localblog.arcaffiliates.com/serving/tampa/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://localblog.arcaffiliates.com/serving/the-villages/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
