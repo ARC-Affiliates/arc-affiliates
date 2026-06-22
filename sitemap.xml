@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://localblog.arcaffiliates.com/blog/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://localblog.arcaffiliates.com/faq/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -29,13 +29,13 @@
   </url>
   <url>
     <loc>https://localblog.arcaffiliates.com/glossary/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://localblog.arcaffiliates.com/pillars/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -185,7 +185,7 @@
   </url>
   <url>
     <loc>https://localblog.arcaffiliates.com/blog/arc-ai-vs-seo-agency-cost-comparison-for-2026/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -210,12 +210,6 @@
   <url>
     <loc>https://localblog.arcaffiliates.com/blog/how-do-chiropractors-use-ai-seo-to-get-new-patients/</loc>
     <lastmod>2026-05-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://localblog.arcaffiliates.com/blog/how-do-electricians-use-ai-seo-to-win-local-jobs-in-2026/</loc>
-    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -318,6 +312,18 @@
   <url>
     <loc>https://localblog.arcaffiliates.com/blog/yext-vs-brightlocal-vs-moz-local-vs-arc-2026-compared/</loc>
     <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://localblog.arcaffiliates.com/blog/how-do-electricians-use-ai-seo-to-win-local-jobs-in-2026/</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://localblog.arcaffiliates.com/blog/arc-affiliates-reviews-2026-real-user-feedback-ratings/</loc>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
